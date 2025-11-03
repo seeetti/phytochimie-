@@ -4,4 +4,5 @@ La phytochimie, ou chimie des végétaux, est la science qui étudie la structur
 
 <img width="287" height="81" alt="image" src="https://github.com/user-attachments/assets/97cb1739-368d-47bf-8a2a-d97b6d829b22" />
 
-https://youtu.be/dlzWXKPq19Y?si=IkL1yIvxzLQF-k5f
+[![Regarder la vidéo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]https://youtu.be/dlzWXKPq19Y?si=m-rJKZAxx3Nax4k2
+
